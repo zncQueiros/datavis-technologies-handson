@@ -1,5 +1,4 @@
 <script>
-    import {scaleLinear} from 'd3-scale';
     import {scaleLog} from 'd3-scale';
     // Dimensions
     const width = 800;
